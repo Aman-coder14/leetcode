@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aman-coder14/leetcode/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Aman-coder14/leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aman-coder14/leetcode/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Aman-coder14/leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
 |  |
