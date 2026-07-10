@@ -1,36 +1,29 @@
 class Solution {
 public:
     long long maximumSubarraySum(vector<int>& nums, int k) {
-        unordered_map<int, int> mp;
-        long long sum = 0;
-        long long ans = 0;
-
-        int i = 0;
-
-        for (int j = 0; j < nums.size(); j++) {
-
-            sum += nums[j];
+        unordered_map<int,int>mp;
+        long long sum =0;
+        long long ans =0;
+        int i=0;
+        for(int j=0;j<nums.size();j++){
+            sum+=nums[j];
             mp[nums[j]]++;
 
-            // If window size is greater than k, remove left element
-            if (j - i + 1 > k) {
-                sum -= nums[i];
+            if(j-i+1>k){
+                sum-=nums[i];
                 mp[nums[i]]--;
 
-                if (mp[nums[i]] == 0)
+                if(mp[nums[i]]==0){
                     mp.erase(nums[i]);
-
+                }
                 i++;
             }
-
-            // Window size is exactly k
             if (j - i + 1 == k) {
                 if (mp.size() == k) {
                     ans = max(ans, sum);
                 }
             }
         }
-
         return ans;
     }
 };
