@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aman-coder14/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aman-coder14/leetcode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Aman-coder14/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Aman-coder14/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Aman-coder14/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Aman-coder14/leetcode/tree/master/0283-move-zeroes) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aman-coder14/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aman-coder14/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Aman-coder14/leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Aman-coder14/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Aman-coder14/leetcode/tree/master/0229-majority-element-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aman-coder14/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
@@ -63,8 +65,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aman-coder14/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Aman-coder14/leetcode/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aman-coder14/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Aman-coder14/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
