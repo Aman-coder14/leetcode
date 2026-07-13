@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aman-coder14/leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Aman-coder14/leetcode/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/Aman-coder14/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Aman-coder14/leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aman-coder14/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aman-coder14/leetcode/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/Aman-coder14/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aman-coder14/leetcode/tree/master/0283-move-zeroes) |
 ## Prefix Sum
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aman-coder14/leetcode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Aman-coder14/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Aman-coder14/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Aman-coder14/leetcode/tree/master/0268-missing-number) |
