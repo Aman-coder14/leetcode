@@ -10,7 +10,8 @@ if(digits[i]<9){
     digits[i]=0;
 }
         }
-        digits.insert(digits.begin(),1);
-        return digits;
+        vector<int>result(n+1,0);
+        result[0]=1;
+        return result;
     }
 };
