@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aman-coder14/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Aman-coder14/leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Aman-coder14/leetcode/tree/master/0031-next-permutation) |
+| [0041-first-missing-positive](https://github.com/Aman-coder14/leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Aman-coder14/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Aman-coder14/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Aman-coder14/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aman-coder14/leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Aman-coder14/leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Aman-coder14/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Aman-coder14/leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Aman-coder14/leetcode/tree/master/0219-contains-duplicate-ii) |
