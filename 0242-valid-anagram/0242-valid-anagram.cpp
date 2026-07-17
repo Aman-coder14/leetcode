@@ -4,13 +4,13 @@ public:
         if (s.length() != t.length()) {
             return false;
         }
-        int characters[26] = {0};
+        int chars[26] = {0};
         for (int i = 0; i < s.length(); i++) {
-            characters[s[i] - 'a']++;
-            characters[t[i] - 'a']--;
+            chars[s[i] - 'a']++;
+            chars[t[i] - 'a']--;
         }
         for(int i=0;i<26;i++){
-            if(characters[i]!=0){
+            if(chars[i]!=0){
                 return false;
             }
         }
