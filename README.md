@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Aman-coder14/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Aman-coder14/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aman-coder14/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Aman-coder14/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Aman-coder14/leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Aman-coder14/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aman-coder14/leetcode/tree/master/0189-rotate-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Aman-coder14/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Aman-coder14/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Aman-coder14/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Aman-coder14/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Aman-coder14/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aman-coder14/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Aman-coder14/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/Aman-coder14/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aman-coder14/leetcode/tree/master/0706-design-hashmap) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Aman-coder14/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
