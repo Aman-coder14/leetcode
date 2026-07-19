@@ -1,11 +1,33 @@
 class MyHashSet {
 public:
-    vector<bool> hash;
-    MyHashSet() { hash.resize(1000001, false); }
-
-    void add(int key) { hash[key] = true; }
-
-    void remove(int key) { hash[key] = false; }
-
-    bool contains(int key) { return hash[key]; }
+    vector<vector<int>> table;
+    int size = 1000;
+    MyHashSet() { table.resize(size); }
+    void add(int key) {
+        int index = key % size;
+        for (int x : table[index]) {
+            if (x == key) {
+                return;
+            }
+        }
+          table[index].push_back(key);
+    }
+    void remove(int key) {
+        int index = key % size;
+        for (int i = 0; i < table[index].size(); i++) {
+            if (table[index][i] == key) {
+                table[index].erase(table[index].begin() + i);
+                return;
+            }
+        }
+    }
+    bool contains(int key) {
+        int index = key % size;
+        for (int x : table[index]) {
+            if (x == key) {
+                return true;
+            }
+        }
+        return false;
+    }
 };
