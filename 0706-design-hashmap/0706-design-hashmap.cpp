@@ -1,17 +1,38 @@
 class MyHashMap {
 public:
-    vector<int> mp;
+    vector<vector<pair<int, int>>> table;
+    int size = 1000;
+    MyHashMap() { table.resize(size); }
 
-    MyHashMap() { 
-        mp.resize(1000001, -1);
-     }
     void put(int key, int value) {
-         mp[key] = value;
-          }
-    int get(int key) {
-         return mp[key]; 
-         }
-    void remove(int key) { 
-        mp[key]= -1; 
+        int index = key % size;
+        for (auto &p : table[index]) {
+            if (p.first == key) {
+                p.second = value;
+                return;
+            }
         }
+        table[index].push_back({key, value});
+    }
+
+    int get(int key) {
+        int index = key % size;
+        for (auto &p : table[index]) {
+            if (p.first == key)
+                return p.second;
+
+        }
+        return -1;
+    }
+
+    void remove(int key) {
+        int index = key % size;
+
+        for (int i = 0; i < table[index].size(); i++) {
+            if (table[index][i].first == key) {
+                table[index].erase(table[index].begin() + i);
+                return;
+            }
+        }
+    }
 };
