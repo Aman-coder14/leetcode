@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Aman-coder14/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Aman-coder14/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Aman-coder14/leetcode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aman-coder14/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aman-coder14/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Aman-coder14/leetcode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Aman-coder14/leetcode/tree/master/0036-valid-sudoku) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aman-coder14/leetcode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aman-coder14/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aman-coder14/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Aman-coder14/leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Aman-coder14/leetcode/tree/master/0088-merge-sorted-array) |
