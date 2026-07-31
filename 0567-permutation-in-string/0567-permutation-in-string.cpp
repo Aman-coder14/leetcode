@@ -8,18 +8,18 @@ public:
         }
         vector<int> freq1(26, 0);
         vector<int> freq2(26, 0);
-        for (char c : s1) {
+        for (char c : s1) { // count freq of s1
             freq1[c - 'a']++;
         }
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++) { // first window
             freq2[s2[i] - 'a']++;
         }
         if (freq1 == freq2) {
             return true;
         }
-        for (int i = n; i < m; i++) {
-            freq2[s2[i] - 'a']++;
-            freq2[s2[i - n] - 'a']--;
+        for (int i = n; i < m; i++) { // slide the window
+            freq2[s2[i] - 'a']++;     // add new charcter
+            freq2[s2[i - n] - 'a']--; // remove old character
 
             if (freq1 == freq2) {
                 return true;
