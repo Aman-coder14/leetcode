@@ -1,27 +1,30 @@
 class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
+        int n = s1.size();
+        int m = s2.size();
+        if (n > m) {
+            return false;
+        }
+        vector<int> freq1(26, 0);
+        vector<int> freq2(26, 0);
+        for (char c : s1) {
+            freq1[c - 'a']++;
+        }
+        for (int i = 0; i < n; i++) {
+            freq2[s2[i] - 'a']++;
+        }
+        if (freq1 == freq2) {
+            return true;
+        }
+        for (int i = n; i < m; i++) {
+            freq2[s2[i] - 'a']++;
+            freq2[s2[i - n] - 'a']--;
 
-        int m = s1.size();
-        int n = s2.size();
-
-        if (m > n) return false;
-
-        // Sort s1 once
-        sort(s1.begin(), s1.end());
-
-        // Check every substring of length m
-        for (int i = 0; i <= n - m; i++) {
-
-            string temp = s2.substr(i, m);
-
-            sort(temp.begin(), temp.end());
-
-            if (temp == s1) {
+            if (freq1 == freq2) {
                 return true;
             }
         }
-
         return false;
     }
 };
