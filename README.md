@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aman-coder14/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aman-coder14/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aman-coder14/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/Aman-coder14/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0705-design-hashset](https://github.com/Aman-coder14/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aman-coder14/leetcode/tree/master/0706-design-hashmap) |
 | [0912-sort-an-array](https://github.com/Aman-coder14/leetcode/tree/master/0912-sort-an-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Aman-coder14/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aman-coder14/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Aman-coder14/leetcode/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Aman-coder14/leetcode/tree/master/0658-find-k-closest-elements) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aman-coder14/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Greedy
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Aman-coder14/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Aman-coder14/leetcode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Aman-coder14/leetcode/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Aman-coder14/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Aman-coder14/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/Aman-coder14/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Prefix Sum
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aman-coder14/leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aman-coder14/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aman-coder14/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/Aman-coder14/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Aman-coder14/leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aman-coder14/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aman-coder14/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aman-coder14/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Aman-coder14/leetcode/tree/master/0268-missing-number) |
+| [0658-find-k-closest-elements](https://github.com/Aman-coder14/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -202,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Aman-coder14/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Aman-coder14/leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aman-coder14/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
