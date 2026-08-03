@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Aman-coder14/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aman-coder14/leetcode/tree/master/0706-design-hashmap) |
 | [0912-sort-an-array](https://github.com/Aman-coder14/leetcode/tree/master/0912-sort-an-array) |
+| [0994-rotting-oranges](https://github.com/Aman-coder14/leetcode/tree/master/0994-rotting-oranges) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aman-coder14/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/Aman-coder14/leetcode/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aman-coder14/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Aman-coder14/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Aman-coder14/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aman-coder14/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/Aman-coder14/leetcode/tree/master/0994-rotting-oranges) |
 ## Simulation
 |  |
 | ------- |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aman-coder14/leetcode/tree/master/0042-trapping-rain-water) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Aman-coder14/leetcode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
