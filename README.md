@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aman-coder14/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aman-coder14/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Aman-coder14/leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Aman-coder14/leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Aman-coder14/leetcode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Aman-coder14/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Aman-coder14/leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aman-coder14/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aman-coder14/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Aman-coder14/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0392-is-subsequence](https://github.com/Aman-coder14/leetcode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Aman-coder14/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Aman-coder14/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aman-coder14/leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Aman-coder14/leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aman-coder14/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Aman-coder14/leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Aman-coder14/leetcode/tree/master/0680-valid-palindrome-ii) |
