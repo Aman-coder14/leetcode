@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Aman-coder14/leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Aman-coder14/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/Aman-coder14/leetcode/tree/master/1768-merge-strings-alternately) |
+| [3110-score-of-a-string](https://github.com/Aman-coder14/leetcode/tree/master/3110-score-of-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
