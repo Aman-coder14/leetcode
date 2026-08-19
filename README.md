@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/Aman-coder14/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aman-coder14/leetcode/tree/master/0706-design-hashmap) |
+| [0901-online-stock-span](https://github.com/Aman-coder14/leetcode/tree/master/0901-online-stock-span) |
 ## Hash Function
 |  |
 | ------- |
@@ -283,11 +284,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aman-coder14/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aman-coder14/leetcode/tree/master/0042-trapping-rain-water) |
+| [0901-online-stock-span](https://github.com/Aman-coder14/leetcode/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aman-coder14/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aman-coder14/leetcode/tree/master/0042-trapping-rain-water) |
+| [0901-online-stock-span](https://github.com/Aman-coder14/leetcode/tree/master/0901-online-stock-span) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -300,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Aman-coder14/leetcode/tree/master/0229-majority-element-ii) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Aman-coder14/leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
