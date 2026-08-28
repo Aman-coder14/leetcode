@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Aman-coder14/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Aman-coder14/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aman-coder14/leetcode/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Aman-coder14/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Aman-coder14/leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aman-coder14/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aman-coder14/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Aman-coder14/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Aman-coder14/leetcode/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Aman-coder14/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Aman-coder14/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Aman-coder14/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aman-coder14/leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Aman-coder14/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Aman-coder14/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Aman-coder14/leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aman-coder14/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -307,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Aman-coder14/leetcode/tree/master/0901-online-stock-span) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Aman-coder14/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
