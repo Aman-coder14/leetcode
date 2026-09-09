@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aman-coder14/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aman-coder14/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/Aman-coder14/leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [3871-count-commas-in-range-ii](https://github.com/Aman-coder14/leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Array
 |  |
 | ------- |
