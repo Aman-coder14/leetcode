@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Aman-coder14/leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Aman-coder14/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Aman-coder14/leetcode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Aman-coder14/leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aman-coder14/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/Aman-coder14/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [3871-count-commas-in-range-ii](https://github.com/Aman-coder14/leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Aman-coder14/leetcode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Aman-coder14/leetcode/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/Aman-coder14/leetcode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Aman-coder14/leetcode/tree/master/1929-concatenation-of-array) |
 ## String
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Aman-coder14/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Aman-coder14/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Aman-coder14/leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/Aman-coder14/leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aman-coder14/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Aman-coder14/leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Aman-coder14/leetcode/tree/master/0680-valid-palindrome-ii) |
