@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/Aman-coder14/leetcode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Aman-coder14/leetcode/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/Aman-coder14/leetcode/tree/master/1148-article-views-i) |
+| [1211-queries-quality-and-percentage](https://github.com/Aman-coder14/leetcode/tree/master/1211-queries-quality-and-percentage) |
 | [1683-invalid-tweets](https://github.com/Aman-coder14/leetcode/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/Aman-coder14/leetcode/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Aman-coder14/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
