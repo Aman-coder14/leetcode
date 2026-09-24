@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Aman-coder14/leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aman-coder14/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/Aman-coder14/leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aman-coder14/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3871-count-commas-in-range-ii](https://github.com/Aman-coder14/leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Array
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Aman-coder14/leetcode/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aman-coder14/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aman-coder14/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aman-coder14/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3903-smallest-stable-index-i](https://github.com/Aman-coder14/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
