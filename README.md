@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-customers-who-bought-all-products](https://github.com/Aman-coder14/leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/Aman-coder14/leetcode/tree/master/1070-product-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/Aman-coder14/leetcode/tree/master/1148-article-views-i) |
+| [1164-product-price-at-a-given-date](https://github.com/Aman-coder14/leetcode/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/Aman-coder14/leetcode/tree/master/1174-immediate-food-delivery-ii) |
 | [1211-queries-quality-and-percentage](https://github.com/Aman-coder14/leetcode/tree/master/1211-queries-quality-and-percentage) |
 | [1683-invalid-tweets](https://github.com/Aman-coder14/leetcode/tree/master/1683-invalid-tweets) |
