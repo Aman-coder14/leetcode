@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Aman-coder14/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0705-design-hashset](https://github.com/Aman-coder14/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aman-coder14/leetcode/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/Aman-coder14/leetcode/tree/master/0901-online-stock-span) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aman-coder14/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aman-coder14/leetcode/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/Aman-coder14/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0901-online-stock-span](https://github.com/Aman-coder14/leetcode/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aman-coder14/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Aman-coder14/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aman-coder14/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Ternary Search
 |  |
