@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Aman-coder14/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aman-coder14/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Aman-coder14/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/Aman-coder14/leetcode/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/Aman-coder14/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aman-coder14/leetcode/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/Aman-coder14/leetcode/tree/master/0724-find-pivot-index) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Aman-coder14/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Aman-coder14/leetcode/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/Aman-coder14/leetcode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Aman-coder14/leetcode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Aman-coder14/leetcode/tree/master/1929-concatenation-of-array) |
 ## String
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Aman-coder14/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aman-coder14/leetcode/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/Aman-coder14/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0682-baseball-game](https://github.com/Aman-coder14/leetcode/tree/master/0682-baseball-game) |
 | [0901-online-stock-span](https://github.com/Aman-coder14/leetcode/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aman-coder14/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aman-coder14/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
