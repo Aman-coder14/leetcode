@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aman-coder14/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Aman-coder14/leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aman-coder14/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/Aman-coder14/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/Aman-coder14/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aman-coder14/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3871-count-commas-in-range-ii](https://github.com/Aman-coder14/leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Aman-coder14/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Aman-coder14/leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Aman-coder14/leetcode/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/Aman-coder14/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Aman-coder14/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Aman-coder14/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/Aman-coder14/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Aman-coder14/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aman-coder14/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Aman-coder14/leetcode/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/Aman-coder14/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Aman-coder14/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aman-coder14/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Matrix
