@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aman-coder14/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Aman-coder14/leetcode/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/Aman-coder14/leetcode/tree/master/0912-sort-an-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Aman-coder14/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/Aman-coder14/leetcode/tree/master/0994-rotting-oranges) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aman-coder14/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Aman-coder14/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Aman-coder14/leetcode/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/Aman-coder14/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aman-coder14/leetcode/tree/master/0706-design-hashmap) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Aman-coder14/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aman-coder14/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Aman-coder14/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Aman-coder14/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Aman-coder14/leetcode/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Aman-coder14/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Aman-coder14/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2574-left-and-right-sum-differences](https://github.com/Aman-coder14/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/Aman-coder14/leetcode/tree/master/3903-smallest-stable-index-i) |
